@@ -11,6 +11,7 @@ def verificar_aprovacao(nota):
 nota = float(input("Digite a nota do aluno: "))
 resultado = verificar_aprovacao(nota)
 print(f"O aluno foi {resultado}.")
+
 #----------------------------------------------
 
 # Missão 2: O Sistema Eleitoral Secreto 📝
